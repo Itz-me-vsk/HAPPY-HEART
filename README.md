@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @HAPPY-HEART
-- 👀 I’m interested in Developing 
+- 👋 Hi, I’m VAISAKH S KUMAR
+- A Lovely Professional University Student currently in 3rd year
+- 👀 I’m interested in Developing, be it of any kind( app or web or anything) 
 - 🌱 I’m currently learning C++, Java, JavaScript, Nodejs, Reactjs, MongoDb, etc 
 
 <!---
